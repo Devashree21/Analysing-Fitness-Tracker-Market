@@ -6,19 +6,15 @@ Analysing Fitness Tracker Market: Step By Step EDA
 
 **1) What is this repository about?**
 
-In this repository, we are going to build various sets of visualizations using Seaborn and Altair libraries in Python and compare them.
-The jupyter notebook (.ipynb) provides the code and this readme contains all the relevant information about this tutorial.
+This repository is about Market Analysis of Fitness Trackers. 
+The jupyter notebook (.ipynb) provides the code and this readme contains all the relevant information about the Market Analysis.
 
-**2) What is Altair?**
+**2) Which tools have been used for the Analysis?**
 
-Altair is an open-source data visualization library like Seaborn. Different charts like bar charts, histograms, pie charts, scatter plots, line charts, etc. could be generated using Altair.
+Python, Seaborn, Matplotlib, Altair - all open-source libraries have been used.
 
-**3) Which plots have been used for comparison?**
+**3) Which dataset has been used?**
 
-For this tutorial, we have built scatter plots & bubble plots, line charts, bar plots & count plots, histograms, strip plots and interactive plot (only with Altair).
-
-**4) Which dataset has been used?**
-
-The 'milespergallon' or 'mpg' dataset from seaborn datasets library has been used to create the above mentioned plots.
+The .
 
 **Details of this tutorial and introduction to Seaborn + Altair have been discussed in my article published on Analytics Vidhya**
