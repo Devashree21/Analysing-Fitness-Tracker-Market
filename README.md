@@ -15,6 +15,4 @@ Python, Seaborn, Matplotlib, Altair - all open-source libraries have been used.
 
 **3) Which dataset has been used?**
 
-The .
-
-**Details of this tutorial and introduction to Seaborn + Altair have been discussed in my article published on Analytics Vidhya**
+This is a product specifications , rating and reviews dataset collected using web scraping technique.
