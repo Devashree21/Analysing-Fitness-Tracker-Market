@@ -22,4 +22,4 @@ The actual dataset used here is from kaggle https://www.kaggle.com/datasets/devs
 
 This dataset contains 565 entries and 11 attributes related to fitness trackers.
 
-Details of this tutorial and model setup are discussed in my article https://www.analyticsvidhya.com/blog/2021/11/how-to-use-python-to-analyse-fitness-tracker-market-step-by-step-eda/ published on Analytics Vidhya.
+Details of this tutorial and model setup are discussed in my article https://www.analyticsvidhya.com/blog/2021/11/how-to-use-python-to-analyse-fitness-tracker-market-step-by-step-eda/ published on Analytics Vidhya. 
